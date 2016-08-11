@@ -1,0 +1,13 @@
+{
+  "name": "contacts-app",
+  "description": "Contacts MEAN Application",
+  "main": "server.js",
+  "license": "ISC",
+  "homepage": "https://github.com/sudhan0707/dynamites-contact-app",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.3.1"
+  }
+}
